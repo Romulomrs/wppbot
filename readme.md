@@ -45,7 +45,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/Romulomrs/wppbot.git)
 cd seu-repo
 Instale as dependências:
 
