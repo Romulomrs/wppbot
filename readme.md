@@ -42,22 +42,13 @@ Terminal com suporte a leitura de QR Code (ex: CMD, PowerShell, Terminal Linux)
 🚀 Instalação e Execução
 Clone o repositório:
 
-bash
-Copiar
-Editar
+
 git clone (https://github.com/Romulomrs/wppbot.git)
 cd seu-repo
 Instale as dependências:
 
-bash
-Copiar
-Editar
 npm install whatsapp-web.js qrcode-terminal
 Execute o bot:
-
-bash
-Copiar
-Editar
 node index.js
 Escaneie o QR Code com o WhatsApp.
 
